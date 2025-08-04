@@ -1,0 +1,13 @@
+patient(anne,abcd,anne,female,21).
+patient(john,'1234',john,male,32).
+patient(seniru,'1234',seniru,male,32).
+user_symptoms(seniru,fever).
+user_symptoms(seniru,stress).
+user_symptoms(seniru,headache).
+user_symptoms(seniru,runny_nose).
+user_symptoms(seniru,sneezing).
+user_symptoms(seniru,sore_throat).
+user_symptoms(seniru,cough).
+user_symptoms(seniru,body_ache).
+user_symptoms(seniru,swollen_glands).
+probable_user_disease(seniru,measles).
