@@ -34,7 +34,7 @@ This is a web-based Doctor Channeling System developed using SWI-Prolog. It offe
 4. Once the server has started, open your web browser and go to: 
 http://localhost:8080/
 
-### UI
+### 🤖 UI
 
 ![Homepage Screenshot](1.png)
 ![Symptoms Screenshot](2.png)
